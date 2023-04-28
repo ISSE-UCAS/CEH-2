@@ -32,3 +32,7 @@ Operating systems, web server OSes, user accounts and passwords, etc.
 <hr>
 
 ### Lab Reports
+
+- Lab 1 Tasks <a href="https://docs.google.com/document/d/1No8Wwu6tFNuqQiuow2WegvkMP1XOnx28n-nlbUNasRw/edit?usp=sharing">here</a>
+
+
