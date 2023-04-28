@@ -36,3 +36,4 @@ Operating systems, web server OSes, user accounts and passwords, etc.
 - Lab 1 Tasks <a href="https://docs.google.com/document/d/1No8Wwu6tFNuqQiuow2WegvkMP1XOnx28n-nlbUNasRw/edit?usp=sharing">here</a>
 
 
+- Lab 2 Tasks <a href="https://docs.google.com/document/d/17y-Sx6LBTv8M3Ai1yCXk5wbls64XTXsKv_oG1NvIRM0/edit?usp=sharing">here</a>
