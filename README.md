@@ -1,6 +1,6 @@
 ## Ethical Hacking and Countermeasures
 
-### Module 2 - version 11
+#### Module 2 - version 11
 
 <hr>
 
@@ -21,11 +21,11 @@ Operating systems, web server OSes, user accounts and passwords, etc.
 <hr>
 
 ### Lab Environment
-<h4> ▪️ Windows 10 virtual machine.</h4>
-<h4> ▪️ Parrot Security virtual machine.</h4>
-<h4> ▪️ Web browsers with an Internet connection.</h4>
-<h4> ▪️ Administrator privileges to run the tools.</h4>
 
+▪️ Windows 10 virtual machine.
+▪️ Parrot Security virtual machine.
+▪️ Web browsers with an Internet connection.
+▪️ Administrator privileges to run the tools.
 
 <hr>
 
