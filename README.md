@@ -8,14 +8,16 @@
 
 The objective of the lab is to extract information about the target organization that includes, but is not limited to:
 
-<h4> <b>- Organization Information</b> </h4>
+- Organization Information <br>
 Employee details, partner details, weblinks, web technologies, patents,
 trademarks, etc.
-<h4> <b>- Network Information</b> </h4>
+
+- Network Information <br>
 Domains, sub-domains, network blocks, network topologies, trusted
 routers, firewalls, IP addresses of the reachable systems, the Whois
 record, DNS records, and other related information
-<h4> <b>- System Information</b> </h4>
+
+- System Information <br>
 Operating systems, web server OSes, user accounts and passwords, etc.
 
 <hr>
